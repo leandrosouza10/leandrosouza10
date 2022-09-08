@@ -1,6 +1,6 @@
 
-## Olá, me chamo Leandro Souza.
-### Seja bem vindo(a) ao meu GitHub 😀 🖖 🧑‍💻
+## Olá, seja bem vindo(a) ao meu GitHub 😀 🖖 🧑‍💻
+
 
 ## Tecnologias e Ferramentas que tenho mais conhecimentos
 
