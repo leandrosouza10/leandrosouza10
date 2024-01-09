@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B9FF7A&random=false&width=435&lines=Hello%2C+my+name%C2%B4s+Leandro+;Welcome+to+my+GitHub+😀🖖🧑‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hello%2C++my+name%C2%B4s+Leandro++;Welcome+to+my+GitHub+%F0%9F%98%80+%F0%9F%96%96+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 ## Technologies and Tools that I know more about
