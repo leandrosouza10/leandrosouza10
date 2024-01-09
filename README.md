@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B9FF7A&random=false&width=435&lines=Hello%2C+my+name%C2%B4s+Leandro+;Welcome+to+my+GitHub+😀🖖🧑‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B9FF7A&random=false&width=435&lines=Hello%2C+my+name%C2%B4s+Leandro+;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 
 ## Technologies and Tools that I know more about
